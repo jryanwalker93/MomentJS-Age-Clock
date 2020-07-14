@@ -3,10 +3,21 @@ body{
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: purple;
+  background-color: darkseagreen;
 }
 
 .countdown{
-  color: yellow;
+  color: palevioletred;
+  display:inline-block;
   font-size: 50px;
+}
+
+.clock{
+  height: 200px;
+  float: right;
+}
+
+.clockdiv {
+  width: 100%;
+  display:inline-block
 }
